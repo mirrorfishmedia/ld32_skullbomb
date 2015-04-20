@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerHealth.cs">
+    <Files>
+      <File FileName="Assets/ClickToStart.cs" Line="16" Column="29" />
+      <File FileName="Assets/ExplodeBuilding.cs" Line="1" Column="1" />
+      <File FileName="Assets/RobotWalk.cs" Line="1" Column="1" />
+      <File FileName="../../../unity_workstuff_air/UnityRoadShow/Unity_5_Content/Workshop_Content/Scripts/findtarget.cs" Line="1" Column="1" />
+      <File FileName="Assets/ShootOnSight.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerHealth.cs" Line="38" Column="5" />
+      <File FileName="Assets/BulletDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets/RobotNavigation.cs" Line="1" Column="1" />
+      <File FileName="Assets/ExplodePlayer.cs" Line="40" Column="41" />
+      <File FileName="Assets/MonolithDisable.cs" Line="1" Column="1" />
+      <File FileName="../../../../MATT_SSD_DATA/butterflytest3/Assets/mattscripts/CURRENT SCRIPTS/CameraUnderWaterC.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameMgr.cs" Line="31" Column="9" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" Line="93" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
